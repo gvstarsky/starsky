@@ -1,4 +1,4 @@
-# starsky
+# 测试配置GPG签名是否成功
 
 Hello!!!
 
